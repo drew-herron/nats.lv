@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/issues-raw/drew-herron/nats.lv.svg?style=flat-square" alt="Open Issues" />
 </a>
 <a href="https://ni.com/labview">
-    <img src="https://img.shields.io/badge/language-gray?&style=flat-square" alt="language" /><img src="https://img.shields.io/badge/LabVIEW%202016-FFDB00?style=flat-square" alt="language" />
+    <img src="https://img.shields.io/badge/language-gray?&style=flat-square" alt="language" /><img src="https://img.shields.io/badge/LabVIEW%202013-FFDB00?style=flat-square" alt="language" />
 </a>
 <a href="https://github.com/drew-herron/nats.lv/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/drew-herron/nats.lv?style=flat-square" alt="License" />
@@ -83,10 +83,16 @@ There are currently two examples included with the NATS Core package: a simple N
   <img src="https://github.com/drew-herron/nats.lv/raw/gh-pages/images/examples_location.png" alt="Example Finder location" style="max-width: 100%;><br clear="left"/>
 </p>
 <br>
+
+### Simple Reader Example
+
 <p align="center">
   <img src="https://github.com/drew-herron/nats.lv/raw/gh-pages/images/simple_reader_example.png" alt="reader example" style="max-width: 100%;><br clear="left"/>
 </p>
 <br>
+
+### Simple Publisher Example
+
 <p align="center">
   <img src="https://github.com/drew-herron/nats.lv/raw/gh-pages/images/simple_writer_example.png" alt="writer example" style="max-width: 100%;><br clear="left"/>
 </p>
@@ -98,7 +104,7 @@ This is not a JetStream enabled client.
 
 # Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
@@ -120,4 +126,4 @@ Unless otherwise noted, the NATS Core source files are distributed under the BSD
 
 # Acknowledgements
 
-Thanks to everyone that publishes LabVIEW libraries for public use. The LabVIEW community may be small compared to other languages, but the quality of some of the things that people release for free is staggering.
+Thanks to everyone that publishes LabVIEW libraries for public use.
