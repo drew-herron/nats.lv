@@ -32,7 +32,7 @@ Neural Autonomic Transport System ([NATS](https://nats.io)) is a lightweight pub
 
 The entire toolkit is written in native LabVIEW and requires no external dependencies to run the code (other than a freely available functioning NATS server).
 
-For an in-depth look at the NATS client protocol, visit the [official documentation](https://docs.nats.io/reference/reference-protocols/nats-protocol). As of May 2022 this documentation still does not cover `HPUB` or `HMSG` and neglects to mention the necessary `<CR><LF>` at the end of a `PUB` or `HPUB` payload. The [Go source code](https://github.com/nats-io/nats.go) was used as a reference to overcome the documentation deficiencies.
+For an in-depth look at the NATS client protocol, visit the [official documentation](https://docs.nats.io/reference/reference-protocols/nats-protocol).
 
 To learn more about NATS and to download the free, open-source server application visit [https://nats.io](https://nats.io)
 
